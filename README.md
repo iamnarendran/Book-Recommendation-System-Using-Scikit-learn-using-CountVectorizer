@@ -47,7 +47,7 @@ Follow these steps to run the app locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/book-recommendation-app.git
+git clone https://github.com/iamnarendran/Book-Recommendation-System-Using-Scikit-learn-using-CountVectorizer.git
 cd book-recommendation-app
 
 # Install the required packages
